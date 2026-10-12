@@ -7,7 +7,7 @@ About Me
 🚀 Interested in: Web Development, Games Development
 🤝 Open to: opportunities
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominicThrower&show_icons=true&theme=dark)
 
 <!--
 **DominicThrower/DominicThrower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
