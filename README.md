@@ -2,7 +2,7 @@
 
 I’m a Student with a passion for Software Engineering. I enjoy learning new technologies.
 
-About Me
+## About Me
  - 💼 Currently working on: University Assignments
  - 🌱 Learning: C#, JavaScript
  - 🚀 Interested in: Web Development, Games Development
