@@ -1,11 +1,12 @@
-Hi, I'm Dominic 👋
+# Hi, I'm Dominic 👋
+
 I’m a Student with a passion for Software Engineering. I enjoy learning new technologies.
 
 About Me
-💼 Currently working on: University Assignments
-🌱 Learning: C#, JavaScript
-🚀 Interested in: Web Development, Games Development
-🤝 Open to: opportunities
+ - 💼 Currently working on: University Assignments
+ - 🌱 Learning: C#, JavaScript
+ - 🚀 Interested in: Web Development, Games Development
+ - 🤝 Open to: opportunities
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominicThrower&show_icons=true&theme=dark)
 
